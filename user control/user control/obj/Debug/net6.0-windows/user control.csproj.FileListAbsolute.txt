@@ -1,0 +1,18 @@
+E:\برمجه المرئيه\visual programming-async\user control\user control\bin\Debug\net6.0-windows\user control.exe
+E:\برمجه المرئيه\visual programming-async\user control\user control\bin\Debug\net6.0-windows\user control.deps.json
+E:\برمجه المرئيه\visual programming-async\user control\user control\bin\Debug\net6.0-windows\user control.runtimeconfig.json
+E:\برمجه المرئيه\visual programming-async\user control\user control\bin\Debug\net6.0-windows\user control.dll
+E:\برمجه المرئيه\visual programming-async\user control\user control\bin\Debug\net6.0-windows\user control.pdb
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.csproj.AssemblyReference.cache
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user_control.Form1.resources
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user_control.ucstate.resources
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.csproj.GenerateResource.cache
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.GeneratedMSBuildEditorConfig.editorconfig
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.AssemblyInfoInputs.cache
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.AssemblyInfo.cs
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.csproj.CoreCompileInputs.cache
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.dll
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\refint\user control.dll
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.pdb
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\user control.genruntimeconfig.cache
+E:\برمجه المرئيه\visual programming-async\user control\user control\obj\Debug\net6.0-windows\ref\user control.dll
